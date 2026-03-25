@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png?">
-
 <p align="center">
   <img src="./activeimage.png" width="400px" >
 </p>
