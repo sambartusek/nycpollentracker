@@ -1,5 +1,10 @@
 name: NYC Pollen Tracker
 title: null
+logo: favicon.png
+author:
+  name: Sam Bartusek
+  type: Person
+  twitter: sambartusek
 twitter:
   username: sambartusek
   card: summary_large_image
