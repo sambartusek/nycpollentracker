@@ -1,5 +1,5 @@
 # NYC Pollen Tracker
-`index.md` in this repo contains the markdown source for [nycpollentracker.com](nycpollentracker.com). 
+`index.md` in this repo contains the markdown source for [nycpollentracker.com](https://nycpollentracker.com). 
 
 ## rendering locally
 You will need to install jekyll - https://jekyllrb.com/docs/installation/.
