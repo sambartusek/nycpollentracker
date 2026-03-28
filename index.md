@@ -1,0 +1,8 @@
+---
+image: activeimage.png
+description: Actual pollen measurements in NYC
+---
+<p align="center">
+  <img src="activeimage.png" width="400px" >
+</p>
+🤧 These charts visualize data from the only source of actual pollen measurements in NYC, performed at Fordham University Lincoln Center campus by Prof. Guy Robinson. Weekly averages are shown, so this is usually not live up to the day. Visualization is done by Samuel Bartusek, a climate scientist in NYC. Please visit <a href="https://www.fordham.edu/about/campuses/the-louis-calder-center/research/indices/fordham-pollen-index/">https://www.fordham.edu/about/campuses/the-louis-calder-center/research/indices/fordham-pollen-index/</a>, or contact Guy Robinson (grobinson@fordham.edu) or Samuel Bartusek (samuel.bartusek@columbia.edu) if you are curious about anything.

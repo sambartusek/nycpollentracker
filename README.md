@@ -1,4 +1,15 @@
-<p align="center">
-  <img src="./activeimage.png" width="400px" >
-</p>
-🤧 These charts visualize data from the only source of actual pollen measurements in NYC, performed at Fordham University Lincoln Center campus by Prof. Guy Robinson. Weekly averages are shown, so this is usually not live up to the day. Visualization is done by Samuel Bartusek, a climate scientist in NYC. Please visit <a href="https://www.fordham.edu/about/campuses/the-louis-calder-center/research/indices/fordham-pollen-index/"> https://www.fordham.edu/about/campuses/the-louis-calder-center/research/indices/fordham-pollen-index/</a>, or contact Guy Robinson (grobinson@fordham.edu) or Samuel Bartusek (samuel.bartusek@columbia.edu) if you are curious about anything.
+# NYC Pollen Tracker
+`index.md` in this repo contains the markdown source for [nycpollentracker.com](nycpollentracker.com). 
+
+## rendering locally
+You will need to install jekyll - https://jekyllrb.com/docs/installation/.
+
+`Gemfile` mirrors the way Github renders the site using Jekyll. After cloning this repo, run
+```zsh
+bundle install
+```
+To serve the site locally (e.g. in order to test changes before pushing to main), run
+```zsh
+bundle exec jekyll serve
+```
+and navigate to http://localhost:4000 in your browser. 
